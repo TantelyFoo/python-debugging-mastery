@@ -1,0 +1,35 @@
+# Core debugging and development packages
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=1.0.0
+
+# Profiling and performance tools
+memory-profiler>=0.60.0
+line-profiler>=4.0.0
+py-spy>=0.3.0
+psutil>=5.9.0
+
+# Advanced debugging tools
+icecream>=2.1.0
+snoop>=0.4.0
+hunter>=3.5.0
+
+# Logging and monitoring
+structlog>=22.0.0
+colorlog>=6.0.0
+
+# Testing and fixtures
+factory-boy>=3.2.0
+faker>=18.0.0
+responses>=0.23.0
+
+# Development utilities
+rich>=13.0.0
+click>=8.0.0
+tqdm>=4.64.0
+
+# Jupyter for interactive debugging
+jupyter>=1.0.0
+ipdb>=0.13.0
